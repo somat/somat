@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 📫 LinkedIn : [https://id.linkedin.com/in/somatomat](https://id.linkedin.com/in/somatomat) 
-
 <!--
 **somat/somat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
